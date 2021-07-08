@@ -1,1 +1,47 @@
-
+body {
+  background-color: #dde2e0;
+  Margin: 40px 250px;
+}
+h1, h2, h3, h4, h5, h6 {
+      line-height: normal;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: normal;
+}
+.header {
+      font-size: 25px;
+      float: center;
+      text-align: center; 
+}
+.info {
+      float: center;
+      text-align: center;
+}
+.shadow {
+      Margin: -55px -250px;
+      float: left;
+      width: 0;
+      height: 0;
+      border-top: 475px solid white;
+      border-right: 375px solid transparent;  
+}
+.shape {
+      Margin: -65px -250px;
+      float: left;
+      width: 0;
+      height: 0;
+      border-top: 475px solid #d5b176;
+      border-right: 375px solid transparent;  
+}
+.catagory {
+     text-transform: uppercase;
+     font-weight: bold;
+     Border-bottom: 2px solid black;
+  }
+.place {
+    font-weight: bold;
+    margin-bottom: -20px;
+}
+.list {
+  list-style-type: circle;
+}
+ 
